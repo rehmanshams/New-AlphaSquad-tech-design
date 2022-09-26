@@ -288,7 +288,7 @@ export const home = () => {
                 ></img>
               </div>
               <div className="absolute align-centre text-center w-full">
-                <p className=" text-gray-500  2xl:text-[90px]	text-[24px]  md:text-[50px] sm:text-[50px] lg:mt-44 lg:text-[70px]  mt-8 2xl:mt-24    md:mt-24  sm:mt-24 xl:text-[80px] xl:mt-60 	font-Bs1 ">
+                <p className=" text-gray-500  2xl:text-[90px]	text-[24px]  md:text-[50px] sm:text-[50px] lg:mt-44 lg:text-[70px]  mt-8 2xl:mt-[220px]    md:mt-24  sm:mt-24 xl:text-[80px] xl:mt-60 	font-Bs1 ">
                   Got a Prob?
                 </p>
                 <p className=" text-gray-500 2xl:text-[25px] text-[9px] sm:text-[15px] md:text-[17px] lg:text-[20px] xl:text-[25px]	 text-center w-full">
@@ -335,7 +335,7 @@ export const home = () => {
               </p>
             </div>
             <div>
-              <p className="float-right mt-2  text-white font-Bs1  text-[11px] sm:text-[15px]  md:text-[15px]  lg:text-[15px] 2xl:text-[18px] xl:text-[18px] 2xl:pr-7 lg:pr-7 md:pr-7 sm:pr-7 xl:pr-20 sm:mt-[-65px] md:mt-[-65px] lg:mt-[-65px] 2xl:mt-[-65px] xl:mt-[-65px]">
+              <p className="float-right mt-2  text-white font-Bs1  text-[11px] sm:text-[15px]  md:text-[15px]  lg:text-[15px] 2xl:text-[18px] xl:text-[18px] 2xl:pr-[50px] lg:pr-7 md:pr-7 sm:pr-7 xl:pr-20 sm:mt-[-65px] md:mt-[-65px] lg:mt-[-65px] 2xl:mt-[-65px] xl:mt-[-65px]">
                 GET UP CLOSE & PERSONAL
               </p>
               <p className="text-gray-500 float-right text-[11px]  sm:text-[16px]  md:text-[16px]  lg:text-[16px]  2xl:text-[16px]  xl:text-[16px] pl-44 sm:pr-7 md:pr-7  lg:pr-16 2xl:pr-32 xl:pr-32 mt-[8px] sm:mt-[-25px]  md:mt-[-25px]  lg:mt-[-25px]  2xl:mt-[-25px]  xl:mt-[-25px] ">
