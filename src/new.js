@@ -254,10 +254,12 @@ export const home = () => {
                     Making crypto safe - and real estate exciting
                   </p>
                 </div>
+
                 <div className="border-t-2 bg-cover w-full  mt-[127px] sm:mt-[224px] md:mt-[224px] lg:mt-[224px]  xl:mt-[224px] 2xl:mt-[224px] bg-nonrepeat bg-imagebg  h-72 2xl:h-96 sm:h-96 md:h-96 lg:h-96 xl:h-96  border-l-1 border-r-0 		border-[1px] border-gray-400	">
-                  <p className=" absolute ">
-                    <img className="dotimageone" src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Group%20812287%20%282%29.svg"></img>
-                  </p>
+                  <div className="absolute dotimageone">
+                    {" "}
+                  
+                  </div>
                   <p className=" relative align-center mt-[118px] text-center 2xl:mt-32 lg:mt-36 md:mt-36 sm:mt-36 xl:mt-32 	font-Bs1 text-gray-600 sm:text-[30px] xl:text-[54px] ">
                     Dope stuff behind<br></br> the box
                   </p>
@@ -369,7 +371,7 @@ export const home = () => {
                   </p>
                 </div>
                 <div>
-                  <p className="float-right mt-2  text-white font-Bs1  text-[11px] sm:text-[15px]  md:text-[15px]  lg:text-[15px] 2xl:text-[18px] xl:text-[18px] 2xl:pr-[40px] lg:pr-7 md:pr-7 sm:pr-7 xl:pr-14 sm:mt-[-65px] md:mt-[-65px] lg:mt-[-65px] 2xl:mt-[-65px] xl:mt-[-65px]">
+                  <p className="float-right mt-2  text-white font-Bs1  text-[11px] sm:text-[15px]  md:text-[15px]  lg:text-[15px] 2xl:text-[18px] xl:text-[18px] 2xl:pr-[53px] lg:pr-7 md:pr-7 sm:pr-7 xl:pr-14 sm:mt-[-65px] md:mt-[-65px] lg:mt-[-65px] 2xl:mt-[-65px] xl:mt-[-65px]">
                     GET UP CLOSE & PERSONAL
                   </p>
                   <p className="text-gray-500 float-right text-[11px]  sm:text-[16px]  md:text-[16px]  lg:text-[16px]  2xl:text-[16px]  xl:text-[16px] pl-44 sm:pr-7 md:pr-7  lg:pr-16 2xl:pr-32 xl:pr-32 mt-[8px] sm:mt-[-25px]  md:mt-[-25px]  lg:mt-[-25px]  2xl:mt-[-25px]  xl:mt-[-25px] ">
